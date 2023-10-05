@@ -5,9 +5,6 @@ Desenvolvedor Web Full-Stack PHP | NodeJS | VueJS | JavaScript | SASS | PostgreS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/cristian-venturi-3aa689119/) 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/crisventuri/)
 
-## Estatísticas 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cristianventuri&layout=compact&bg_color=000&border_color=30A3DC&title_color=c3107d&text_color=FFF)
-
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
@@ -20,6 +17,8 @@ Desenvolvedor Web Full-Stack PHP | NodeJS | VueJS | JavaScript | SASS | PostgreS
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
+## Estatísticas 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cristianventuri&layout=compact&bg_color=000&border_color=000&title_color=c3107d&text_color=faebd7.)
 
 <!--
 **cristianventuri/cristianventuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
