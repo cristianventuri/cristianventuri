@@ -18,7 +18,7 @@ Desenvolvedor Web Full-Stack PHP | NodeJS | VueJS | JavaScript | SASS | PostgreS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 ## Estatísticas 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cristianventuri&layout=compact&bg_color=000&border_color=000&title_color=c3107d&text_color=faebd7.)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cristianventuri&layout=compact&bg_color=faebd7&border_color=000&title_color=c3107d&text_color=fff.)
 
 <!--
 **cristianventuri/cristianventuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
