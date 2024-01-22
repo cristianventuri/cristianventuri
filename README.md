@@ -1,8 +1,8 @@
 # Cristian Venturi
-Desenvolvedor Web Full-Stack PHP | NodeJS | VueJS | JavaScript | SASS | PostgreSQL | MySQL
+Desenvolvedor de Software | PHP | Vue.js | JavaScript | SASS | Node.js | PostgreSQL | MySQL
 
 ## Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/cristian-venturi-3aa689119/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/cristianventuri/) 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/crisventuri/)
 
 ## Habilidades
