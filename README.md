@@ -1,36 +1,41 @@
-# Cristian Venturi
-Desenvolvedor de Software | PHP | Vue.js | JavaScript | SASS | Node.js | PostgreSQL | MySQL
+**Desenvolvedor de Software** | Node.js | Java | PHP | Angular | Vue.js | PostgreSQL | AWS | Google Cloud | Power BI
+
+- 💻 Back-end com **Node.js**, **Java** e **PHP**
+- 🎨 Front-end com **Angular**, **Vue.js** e **TypeScript**
+- ☁️ Cloud com **AWS** e **Google Cloud**
+- 📊 Dados com **PostgreSQL** e **MySQL**, e dashboards no **Metabase** e no **Power BI**
 
 ## Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/cristianventuri/) 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/crisventuri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMEU3NkE4IiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/cristianventuri/)
 
 ## Habilidades
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![NODE](https://img.shields.io/badge/NODE-000?style=for-the-badge&logo=nodedotjs)
-![VUE](https://img.shields.io/badge/VUE-000?style=for-the-badge&logo=vuedotjs)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-## Estatísticas 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cristianventuri&bg_color=faebd7&border_color=000&title_color=000&text_color=fff.)
+**Back-end**
 
-<!--
-**cristianventuri/cristianventuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)
 
-Here are some ideas to get you started:
+**Front-end**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css&logoColor=264CE4)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=CC6699)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZjkwIiBkPSJNMTA4LjYgIDI2LjFjLTEuOSAgMC0zLjYgMC4yLTUuMyAwLjctMS43IDAuNS0zLjEgIDEuMi00LjQgIDIuMmExMC44ICAxMC44ICAwICAwICAwLTMgIDMuNWMtMC44ICAxLjMtMS4xICAyLjktMS4xICA0LjcgIDAgIDIuMiAwLjcgIDQuMiAgMi4xICA2LjEgIDEuNCAgMS45ICAzLjcgIDMuMyAgNi43ICA0LjNsNi4xICAxLjljMi4xIDAuNyAgMy41ICAxLjQgIDQuMyAgMi4yIDAuOCAwLjggIDEuMSAgMS44ICAxLjEgIDIuOSAgMCAgMS43LTAuOCAgMy4xLTIuMiAgNC0xLjQgMC45LTMuNSAgMS40LTYuMSAgMS40LTEuNyAgMC0zLjMtMC4yLTUtMC41YTIzLjEgIDIzLjEgIDAgIDAgIDEtNC42LTEuNWMtMC40LTAuMi0wLjgtMC4zLTEuMS0wLjRhMi40ICAyLjQgIDAgIDAgIDAtMC44LTAuMWMtMC42ICAwLTEgMC40LTEgIDEuM3YyLjFhMi45ICAyLjkgIDAgIDAgIDAgIDAuMyAgMS4yYzAuMiAwLjQgMC42IDAuOCAgMS4zICAxLjIgIDEuMSAwLjYgIDIuNyAgMS4yICA0LjggIDEuNyAgMi4xIDAuNSAgNC4zIDAuOCAgNi41IDAuOCAgMi4xICAwICA0LjEtMC4zICA2LTAuOSAgMS44LTAuNiAgMy40LTEuMyAgNC43LTIuNCAgMS4zLTEgIDIuMy0yLjMgIDMuMS0zLjcgMC43LTEuNCAgMS4xLTMuMSAgMS4xLTQuOSAgMC0yLjItMC42LTQuMi0xLjktNS45LTEuMy0xLjctMy41LTMuMS02LjUtNGwtNi0xLjljLTIuMi0wLjctMy44LTEuNS00LjYtMi4zLTAuOC0wLjgtMS4zLTEuOC0xLjMtMyAgMC0xLjcgMC43LTMgIDItMy43ICAxLjMtMC44ICAzLjItMS4yICA1LjYtMS4yICAzICAwICA1LjcgMC41ICA4LjEgIDEuNiAwLjcgMC4zICAxLjMgMC41ICAxLjYgMC41IDAuNiAgMCAgMS0wLjUgMS0xLjN2LTJjMC0wLjYtMC4xLTEuMS0wLjQtMS40LTAuMi0wLjQtMC43LTAuNy0xLjMtMS4xLTAuNC0wLjMtMS0wLjUtMS44LTAuOGEzMi41ICAzMi41ICAwICAwICAwLTIuNC0wLjdjLTAuOS0wLjItMS44LTAuMy0yLjctMC41YTIxLjMgIDIxLjMgIDAgIDAgIDAtMi44LTAuMnptLTg2LjggMC4xYy0yLjMgIDAtNC41IDAuMy02LjYgMC44LTIuMSAwLjUtMy44ICAxLjEtNS4zICAxLjktMC42IDAuMy0xIDAuNi0xLjIgMC45LTAuMiAwLjMtMC4zIDAuOC0wLjMgIDEuNXYyLjFjMCAgMC45IDAuMyAgMS4zIDAuOSAgMS4zIDAuMiAgMCAgMC40LTAgMC43LTAuMSAwLjMtMC4xIDAuOC0wLjMgIDEuNS0wLjVhMzMuNCAgMzMuNCAgMCAgMCAgMSAgNC41LTEuNEExOS4yICAxOS4yICAwICAwICAxICAyMC41ICAzMmMzLjIgIDAgIDUuNSAwLjYgIDYuOSAgMS45ICAxLjMgIDEuMyAgMiAgMy41ICAyICA2Ljd2My4xYy0xLjctMC40LTMuMy0wLjctNC44LTAuOS0xLjYtMC4yLTMtMC4zLTQuNS0wLjMtNC4zICAwLTcuOCAgMS4xLTEwLjMgIDMuMy0yLjYgIDIuMi0zLjggIDUuMS0zLjggIDguNyAgMCAgMy40ICAxLjEgIDYuMSAgMy4xICA4LjEgIDIuMSAgMiAgNC45ICAzICA4LjQgIDMgIDUgIDAgIDkuMS0xLjkgIDEyLjQtNS44YTM0LjIgIDM0LjIgIDAgIDAgIDAgIDEuMyAgMi41ICAxMy4zICAxMy4zICAwICAwICAwICAxLjUgIDJjMC40IDAuNCAwLjggMC42ICAxLjMgMC42IDAuMyAgMCAgMC43LTAuMSAgMS4xLTAuNGwyLjctMS44YzAuNS0wLjQgMC44LTAuOCAwLjgtMS4zYTEuOSAgMS45ICAwICAwICAwLTAuMy0xICAyMi41ICAyMi41ICAwICAwICAxLTEuMy0zYy0wLjMtMC45LTAuNS0yLjItMC41LTMuOGgtMC4xVjQwYzAtNC42LTEuMi04LjEtMy41LTEwLjQtMi40LTIuMy02LTMuNC0xMS0zLjR6bTE5LjYgIDFjLTAuNyAgMC0xIDAuNC0xICAxLjEgIDAgIDAuMyAwLjEgMC44IDAuNCAgMS43bDkuOSAgMzIuNWMwLjMgMC44IDAuNSAgMS40IDAuOSAgMS42IDAuMyAwLjMgMC44IDAuNCAgMS42IDAuNGgzLjZjMC44ICAwICAxLjMtMC4xICAxLjctMC40IDAuMy0wLjMgMC42LTAuOCAwLjgtMS43bDYuNS0yNy4xICA2LjUgIDI3LjJjMC4yIDAuOCAwLjUgIDEuNCAwLjggIDEuNyAwLjMgMC4zIDAuOSAwLjQgIDEuNyAwLjRoMy42YzAuNyAgMCAgMS4zLTAuMiAgMS42LTAuNCAwLjMtMC4zIDAuNi0wLjggMC45LTEuNkw5MC45ICAzMGMwLjItMC41IDAuMi0wLjggMC4zLTEuMSAwLTAuMyAwLjEtMC41IDAuMS0wLjcgIDAtMC43LTAuNC0xLjEtMS4xLTEuMUg4Ni40Yy0wLjggIDAtMS4zIDAuMi0xLjYgMC40LTAuMyAwLjItMC42IDAuOC0wLjggIDEuNkw3Ni42ICA1Ny41bC02LjctMjguMmMtMC4yLTAuOC0wLjUtMS40LTAuOC0xLjYtMC4zLTAuMy0wLjktMC40LTEuNy0wLjRoLTMuNGMtMC44ICAwLTEuMyAwLjItMS43IDAuNC0wLjMgMC4yLTAuNiAwLjgtMC44ICAxLjZsLTYuNiAgMjcuOS03LjEtMjcuOWMtMC4yLTAuOC0wLjUtMS40LTAuOC0xLjYtMC4zLTAuMy0wLjgtMC40LTEuNi0wLjRoLTQuMXpNMjEuNiAgNDcuNWEzMS44ICAzMS44ICAwICAwICAxICA0IDAuMiAgMzQuNCAgMzQuNCAgMCAgMCAgMSAgMy45IDAuN3YxLjhjMCAgMS40LTAuMiAgMi43LTAuNCAgMy43LTAuMiAgMS0wLjggIDEuOS0xLjQgIDIuNy0xLjEgIDEuMy0yLjUgIDIuMi00ICAyLjctMS41IDAuNS0yLjkgMC44LTQuMyAwLjgtMS45ICAwLTMuNC0wLjUtNC40LTEuNi0xLjEtMS0xLjYtMi41LTEuNi00LjUgIDAtMi4xIDAuNy0zLjcgIDIuMS00LjggIDEuNC0xLjEgIDMuNS0xLjcgIDYuMy0xLjd6TTExOCAgNzMuM2MtNC40IDAuMS05LjcgIDEuMS0xMy42ICAzLjgtMS4yIDAuOS0xICAyLjEgMC4zICAxLjkgIDQuNS0wLjUgIDE0LjQtMS43ICAxNi4yIDAuNSAgMS44ICAyLjItMiAgMTEuNi0zLjcgIDE1LjgtMC41ICAxLjMgMC42ICAxLjggIDEuNyAwLjggIDcuNC02LjIgIDkuMy0xOS4yICA3LjgtMjEuMS0wLjgtMC45LTQuNC0xLjgtOC44LTEuN3pNMS42ICA3NS45Yy0wLjkgMC4xLTEuMyAgMS4yLTAuNCAgMi4xICAxNi41ICAxNC45ICAzOC40ICAyMy45ICA2Mi42ICAyMy45ICAxNy4zICAwICAzNy40LTUuNCAgNTEuMy0xNS43ICAyLjMtMS43IDAuMy00LjMtMi0zLjItMTUuNSAgNi42LTMyLjQgIDkuOC00Ny44ICA5LjgtMjIuOCAgMC00NC44LTYuMy02Mi43LTE2LjYtMC40LTAuMi0wLjgtMC4zLTEuMS0wLjN6Ii8%2BPC9zdmc%2BIA==)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+
+**Banco de dados e BI**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=F29111)
+![Metabase](https://img.shields.io/badge/Metabase-000?style=for-the-badge&logo=metabase&logoColor=509EE3)
+![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMi41IiB5PSIxMyIgd2lkdGg9IjUiIGhlaWdodD0iOSIgcng9IjEuNSIgZmlsbD0iI0Y3REE2QiIvPjxyZWN0IHg9IjkuNSIgeT0iOCIgd2lkdGg9IjUiIGhlaWdodD0iMTQiIHJ4PSIxLjUiIGZpbGw9IiNGNENGM0YiLz48cmVjdCB4PSIxNi41IiB5PSIyIiB3aWR0aD0iNSIgaGVpZ2h0PSIyMCIgcng9IjEuNSIgZmlsbD0iI0YyQzgxMSIvPjwvc3ZnPg==)
+
+
